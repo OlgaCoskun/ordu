@@ -1,21 +1,26 @@
 * {
-  font-family: 'Source Sans Pro';
+    font-family: 'Droid Sans', sans-serif;
     font-style: normal;
     margin: 0;
     padding: 0;
+    font-size: 18px;
 }
-
-
-
-
-/*html {
-        background: url(../images/bg.jpg) no-repeat center center fixed;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
-}*/
 
 .navbar {
     margin-bottom: 0px;
+}
+
+a {
+    color: #801089;
+}
+
+em {
+    display: block;
+    text-align: right;
+}
+
+#footer {
+    background: #801089;
+    color: #fff;
+    font-size: 10px;
 }
