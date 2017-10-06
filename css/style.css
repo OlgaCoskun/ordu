@@ -8,10 +8,11 @@
 
 .navbar {
     margin-bottom: 0px;
+    background: #801089;
 }
 
 a {
-    color: #801089;
+    color: #fff;
 }
 
 em {
@@ -23,4 +24,35 @@ em {
     background: #801089;
     color: #fff;
     font-size: 10px;
+}
+
+#footer2 {
+    padding: 0px;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+    margin-top: 50px;
+    color: #801089;
+}
+
+
+#email {
+    color: #fff;
+}
+
+.dropdown-menu>li>a {
+    background: #801089;
+    color: #fff;
+}
+
+
+
+
+@media (min-width: 768px) {
+    .col-sm-12 {
+        padding: 0px;
+    }
+
 }
