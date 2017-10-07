@@ -50,6 +50,17 @@ h1 {
 
 
 
+#parent {
+    line-height: 240px;
+}
+#parent img {
+    vertical-align: middle;
+}
+
+
+
+
+
 @media (min-width: 768px) {
     .col-sm-12 {
         padding: 0px;
