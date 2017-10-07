@@ -37,6 +37,10 @@ h1 {
     color: #801089;
 }
 
+h2 {
+    display: block;
+    text-align: center;
+}
 
 #email {
     color: #fff;
