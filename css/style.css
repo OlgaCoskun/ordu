@@ -20,13 +20,13 @@ em {
     text-align: right;
 }
 
-#footer {
+#footer, #footer3 {
     background: #801089;
     color: #fff;
     font-size: 10px;
 }
 
-#footer2 {
+#footer2, #footer4 {
     padding: 0px;
 }
 
@@ -78,3 +78,6 @@ h2 {
     }
 
 }
+
+
+
