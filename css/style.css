@@ -61,7 +61,14 @@ h2 {
     vertical-align: middle;
 }
 
+#name {
+    text-align: center;
+}
 
+.thumbnail {
+    padding-top: 45px;
+    margin-top: 20px;
+}
 
 
 
