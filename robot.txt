@@ -1,6 +1,6 @@
 User-agent: *
 Disallow: /
-Sitemap: http://aslancamikoyudernegi.com.tr
+Sitemap: https://aslancamikoyudernegi.com.tr
 
 User-agent: Yandex
 Disallow:
