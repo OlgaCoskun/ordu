@@ -93,6 +93,11 @@ body {
         text-align: center;
     }
 
+#slider {
+    padding-right: 0px;
+    padding-left: 0px;}
+
+
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: @screen-sm-min) {
@@ -103,11 +108,7 @@ body {
     .center-block {
         padding-top: 20px;
     }
-
 }
-
-
-
 
 
 
@@ -115,4 +116,6 @@ body {
 @media (min-width: @screen-md-min) { ... }
 
 /* Large devices (large desktops, 1200px and up) */
-@media (min-width: @screen-lg-min) { ... }
+@media (min-width: @screen-lg-min) {
+
+}
