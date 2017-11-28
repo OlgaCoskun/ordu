@@ -98,6 +98,14 @@ body {
     padding-left: 0px;}
 
 
+#msg {
+    text-transform: lowercase;
+}
+
+span {
+    font-weight: bold;
+}
+
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: @screen-sm-min) {
